@@ -1,2 +1,2 @@
-# device_xiaomi
-device/xiaomi/[project]
+| Branch | Device | Android version | Base tag | Link |
+| :-: | :-: | :-: | :-: | :-: |
